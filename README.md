@@ -22,8 +22,12 @@ In this repository, we are going to take a look at the UpGrad Lead scoring case 
 Files included:
 
 Python commented file: Lead_Score_CaseStudy.ipynb
+
 Subjective answers pdf file: Lead_Score_Case_Study_Subjective_Answers.pdf
+
 Summary pdf file: Lead_Score_Case_Study_Summary.pdf
+
 Presentation: Lead_Score_ppt.pdf
+
 README.md file.
 
